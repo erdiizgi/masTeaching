@@ -7,6 +7,7 @@ import jade.content.onto.annotations.Slot;
  * Created by Martin Pilat on 12.2.14.
  *
  * One goal of the agent -- a book and its value
+ * book info where only the book is important
  */
 public class Goal implements Concept {
 

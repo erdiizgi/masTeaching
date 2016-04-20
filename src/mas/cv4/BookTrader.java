@@ -28,6 +28,9 @@ import java.util.*;
  * A simple (testing) version of the trading agent. The agent does not trade in any reasonable way, it only ensures it
  * does not sell bosks it does not own (but it can still happed from time to time if two agents asks for the same book
  * at the same time).
+ * 
+ * selection of the offers can be implemented
+ * 
  *
  */
 public class BookTrader extends Agent {
